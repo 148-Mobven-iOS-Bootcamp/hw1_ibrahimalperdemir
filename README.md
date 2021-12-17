@@ -1,3 +1,3 @@
 # Finding Fibonacci Numbers
 
- This application finds fibonacci numbers between 750 and 1000.
+ This code finds fibonacci numbers between 750 and 1000 and write as array.
